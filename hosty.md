@@ -3,4 +3,4 @@
 
 # Hosty
 
-Więc ile mamy hostóœ?
+Więc ile mamy hostów?
