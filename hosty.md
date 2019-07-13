@@ -1,6 +1,6 @@
 <!-- TITLE: Hosty -->
 <!-- SUBTITLE: A quick summary of Hosty -->
 
-# Header
+# Hosty
 
 Więc ile mamy hostóœ?
